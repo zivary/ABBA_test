@@ -45,18 +45,18 @@
 - 화요일에 전력사용량 평균이 가장 높음
 
 # 5. 건물별_요일별_전력사용량_평균
-- '건물기타': 'Other_Buildings',
-- '공공': 'Public' - 주말 전력 소비 감소
-- '대학교': 'University' - 주말 전력 소비 감소
-- '데이터센터': 'Data_Center' - 매일 전력 소비 일정
-- '백화점및아울렛': 'Department_Store_and_Outlet' - 월요일 전력 소비 감소
-- '병원': 'Hospital' - 주말 전력 소비 감소
-- '상용': 'Commercial' - 주말 전력 소비 감소
-- '아파트': 'Apartment' - 매일 전력 소비 일정
-- '연구소': 'Research_Institute' - 주말 전력 소비 감소
-- '지식산업센터': 'Knowledge_Industry_Center' - 주말 전력 소비 감소
-- '할인마트': 'Discount_Mart' - 일요일 전력 소비 감소
-- '호텔및리조트': 'Hotel_and_Resort' - 매일 전력 소비 일정
+> '건물기타': 'Other_Buildings'\
+ '공공': 'Public' - 주말 전력 소비 감소\
+ '대학교': 'University' - 주말 전력 소비 감소\
+ '데이터센터': 'Data_Center' - 매일 전력 소비 일정\
+ '백화점및아울렛': 'Department_Store_and_Outlet' - 월요일 전력 소비 감소\
+ '병원': 'Hospital' - 주말 전력 소비 감소\
+ '상용': 'Commercial' - 주말 전력 소비 감소\
+ '아파트': 'Apartment' - 매일 전력 소비 일정\
+ '연구소': 'Research_Institute' - 주말 전력 소비 감소\
+ '지식산업센터': 'Knowledge_Industry_Center' - 주말 전력 소비 감소\
+ '할인마트': 'Discount_Mart' - 일요일 전력 소비 감소\
+ '호텔및리조트': 'Hotel_and_Resort' - 매일 전력 소비 일정
 
 # 6. 월별 건물별 전력소비량 평균
 - 2022년 8월 27번 건물이 월평균 전력소비량 평균이 가장 높음
